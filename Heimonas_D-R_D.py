@@ -2,5 +2,6 @@ def main():
  print('ИВТ-ИВС-203Б, 2 подгруппа')
  print('03.10.2026')
  print('рюмка водки на столееее!')
+ print('Unknown writes here')
 if __name__ == '__main__':
  main()
